@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "pizzas 1",
+    "ingredients": [
+      "tomato sauce",
+      "mozzarella",
+      "mushrooms",
+      "ham"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "pizzas 2",
+    "ingredients": [
+      "tomato sauce",
+      "mozzarella",
+      "blue cheese",
+      "mushrooms",
+      "ham"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "pizzas 3",
+    "ingredients": [
+      "tomato sauce",
+      "mozzarella",
+      "mushrooms",
+      "ham"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "pizzas 4",
+    "ingredients": [
+      "mozzarella"
+    ]
+  }
+]
